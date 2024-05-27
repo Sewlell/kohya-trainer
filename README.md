@@ -2,102 +2,23 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/Linaqruf/kohya-trainer?style=social)](https://github.com/Linaqruf/kohya-trainer/)</a> [![ko-fi](https://img.shields.io/badge/Support%20me%20on%20Ko--fi-F16061?logo=ko-fi&logoColor=white&style=flat)](https://ko-fi.com/linaqruf) <a href="https://saweria.co/linaqruf"><img alt="Saweria" src="https://img.shields.io/badge/Saweria-7B3F00?style=flat&logo=ko-fi&logoColor=white"/></a>
 
 Github Repository for [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts) colab notebook implementation
+
+Handled and updated by me as I prefer this over [bmaltais' kohya_ss](https://github.com/bmaltais/kohya_ss). Again every link except Kohya Dreambooth direct to its original link. 
 | Notebook Name | Description | Link | V14 |
 | --- | --- | --- | --- |
-| [Kohya LoRA Dreambooth](https://github.com/Linaqruf/kohya-trainer/blob/main/kohya-LoRA-dreambooth.ipynb) | LoRA Training (Dreambooth method) | [![](https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=5c5c5c&color=0f80c1&label=%20&style=flat)](https://colab.research.google.com/github/Linaqruf/kohya-trainer/blob/main/kohya-LoRA-dreambooth.ipynb) | [![](https://img.shields.io/static/v1?message=Older%20Version&logo=googlecolab&labelColor=5c5c5c&color=e74c3c&label=%20&style=flat)](https://colab.research.google.com/github/Linaqruf/kohya-trainer/blob/ff701379c65380c967cd956e4e9e8f6349563878/kohya-LoRA-dreambooth.ipynb) | 
-| [Kohya LoRA Fine-Tuning](https://github.com/Linaqruf/kohya-trainer/blob/main/kohya-LoRA-finetuner.ipynb) | LoRA Training (Fine-tune method) | [![](https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=5c5c5c&color=0f80c1&label=%20&style=flat)](https://colab.research.google.com/github/Linaqruf/kohya-trainer/blob/main/kohya-LoRA-finetuner.ipynb) | [![](https://img.shields.io/static/v1?message=Older%20Version&logo=googlecolab&labelColor=5c5c5c&color=e74c3c&label=%20&style=flat)](https://colab.research.google.com/github/Linaqruf/kohya-trainer/blob/ff701379c65380c967cd956e4e9e8f6349563878/kohya-LoRA-finetuner.ipynb) | 
-| [Kohya Trainer](https://github.com/Linaqruf/kohya-trainer/blob/main/kohya-trainer.ipynb) | Native Training | [![](https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=5c5c5c&color=0f80c1&label=%20&style=flat)](https://colab.research.google.com/github/Linaqruf/kohya-trainer/blob/main/kohya-trainer.ipynb) | [![](https://img.shields.io/static/v1?message=Older%20Version&logo=googlecolab&labelColor=5c5c5c&color=e74c3c&label=%20&style=flat)](https://colab.research.google.com/github/Linaqruf/kohya-trainer/blob/ff701379c65380c967cd956e4e9e8f6349563878/kohya-trainer.ipynb) | 
-| [Kohya Dreambooth](https://github.com/Linaqruf/kohya-trainer/blob/main/kohya-dreambooth.ipynb) | Dreambooth Training | [![](https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=5c5c5c&color=0f80c1&label=%20&style=flat)](https://colab.research.google.com/github/Linaqruf/kohya-trainer/blob/main/kohya-dreambooth.ipynb) | [![](https://img.shields.io/static/v1?message=Older%20Version&logo=googlecolab&labelColor=5c5c5c&color=e74c3c&label=%20&style=flat)](https://colab.research.google.com/github/Linaqruf/kohya-trainer/blob/ff701379c65380c967cd956e4e9e8f6349563878/kohya-dreambooth.ipynb) | 
-| [Cagliostro Colab UI](https://github.com/Linaqruf/sd-notebook-collection/blob/main/cagliostro-colab-ui.ipynb) `NEW`| A Customizable Stable Diffusion Web UI| [![](https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=5c5c5c&color=0f80c1&label=%20&style=flat)](https://colab.research.google.com/github/Linaqruf/sd-notebook-collection/blob/main/cagliostro-colab-ui.ipynb) | 
+| [Kohya LoRA Dreambooth](https://github.com/Linaqruf/kohya-trainer/blob/main/kohya-LoRA-dreambooth.ipynb) | LoRA Training (Dreambooth method), may encounter some errors | [![](https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=5c5c5c&color=0f80c1&label=%20&style=flat)](https://colab.research.google.com/github/Linaqruf/kohya-trainer/blob/main/kohya-LoRA-dreambooth.ipynb) | [![](https://img.shields.io/static/v1?message=Older%20Version&logo=googlecolab&labelColor=5c5c5c&color=e74c3c&label=%20&style=flat)](https://colab.research.google.com/github/Linaqruf/kohya-trainer/blob/ff701379c65380c967cd956e4e9e8f6349563878/kohya-LoRA-dreambooth.ipynb) | 
+| [Kohya LoRA Fine-Tuning](https://github.com/Linaqruf/kohya-trainer/blob/main/kohya-LoRA-finetuner.ipynb) | LoRA Training (Fine-tune method), may encounter some errors | [![](https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=5c5c5c&color=0f80c1&label=%20&style=flat)](https://colab.research.google.com/github/Linaqruf/kohya-trainer/blob/main/kohya-LoRA-finetuner.ipynb) | [![](https://img.shields.io/static/v1?message=Older%20Version&logo=googlecolab&labelColor=5c5c5c&color=e74c3c&label=%20&style=flat)](https://colab.research.google.com/github/Linaqruf/kohya-trainer/blob/ff701379c65380c967cd956e4e9e8f6349563878/kohya-LoRA-finetuner.ipynb) | 
+| [Kohya Trainer](https://github.com/Linaqruf/kohya-trainer/blob/main/kohya-trainer.ipynb) | Native Training, may encounter some errors | [![](https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=5c5c5c&color=0f80c1&label=%20&style=flat)](https://colab.research.google.com/github/Linaqruf/kohya-trainer/blob/main/kohya-trainer.ipynb) | [![](https://img.shields.io/static/v1?message=Older%20Version&logo=googlecolab&labelColor=5c5c5c&color=e74c3c&label=%20&style=flat)](https://colab.research.google.com/github/Linaqruf/kohya-trainer/blob/ff701379c65380c967cd956e4e9e8f6349563878/kohya-trainer.ipynb) | 
+| [Kohya Dreambooth](https://github.com/Sewlell/kohya-trainer/blob/main/kohya-dreambooth.ipynb) | Dreambooth Training (CHECKED AND FIXED) | [![](https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=5c5c5c&color=0f80c1&label=%20&style=flat)](https://colab.research.google.com/github/Sewlell/kohya-trainer/blob/main/kohya-dreambooth.ipynb) | [![](https://img.shields.io/static/v1?message=Older%20Version&logo=googlecolab&labelColor=5c5c5c&color=e74c3c&label=%20&style=flat)](https://colab.research.google.com/github/Linaqruf/kohya-trainer/blob/ff701379c65380c967cd956e4e9e8f6349563878/kohya-dreambooth.ipynb) | 
+| [Cagliostro Colab UI](https://github.com/Linaqruf/sd-notebook-collection/blob/main/cagliostro-colab-ui.ipynb) `NEW`| A Customizable Stable Diffusion Web UI, lazy to care for this | [![](https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=5c5c5c&color=0f80c1&label=%20&style=flat)](https://colab.research.google.com/github/Linaqruf/sd-notebook-collection/blob/main/cagliostro-colab-ui.ipynb) | 
 
 ## Updates
-#### 2023
-##### v15.0.1 (25/04):
+#### 2024
+##### v15.0.2 (27/05):
 __What Changes?__
-- Bump Tensorboard and Tensorflow version to 2.12.0 https://github.com/Linaqruf/kohya-trainer/issues/200
-- Fix `class_token` undefined if `activation_word` = 1 word https://github.com/Linaqruf/kohya-trainer/issues/198
-    - But also delete `token_to_captions` function, because it's complicated and also it has the same function with `4.2.3. Custom Caption/Tag`
-    
-##### v15.0.0 (10/04):
-__What Changes?__
-- Refactoring 4 notebooks
-- Use python dict for passing argparse value
-- Set AnyLoRA as default pretrained model
-- Change AnyLoRA version to bakedVAE
-- Added a logic to download multiple custom model or LoRA by separating the link with comma `(,)`
-- Revamped `3.3. Image Scraper (Optional)`:
-    - Simplified the cell, hide every `parameter` that should be default, e.g. `user_agent`
-    - Delete `tags1` and `tags2` field, and changed it to `prompt`. Now user can type their desired tags more than 2 (except: `danbooru`) by separating each tag with a comma `(,)`
-    - Added `sub_folder` to scrape images to desired path, useful for multi-concept or multi-directories training.
-        - If the value is empty, default path is `train_data_dir`
-        - if the value is string and not path, default path is `train_data_dir` + `sub_folder`
-        - if the value is path, default path is `sub_folder`
-    - Added `range` to limit the number of images to scrape. How to use it: Add `1-200` to download 200 images. Newest Images in the server are prioritized. 
-- Added `recursive` option to `4.1. Data Cleaning`, to clean unsupported files and convert RGBA to RGB recursively. Useful for multi-concept or multi-directories training.
-- Refactoring `4.2.1. BLIP Captioning`:
-    - Added `recursive` option to `4.2.1. BLIP Captioning`, to generate captions recursively, by checking sub-directories as well. Useful for multi-concept or multi-directories training.
-    - Set `--debug` or `verbose_logging` in `4.2.1. BLIP Captioning` **On** by default.
-- Revamped `Waifu Diffusion 1.4 Tagger V2`:
-    - Added WD Tagger new model, and set to default : [SmilingWolf/wd-v1-4-convnextv2-tagger-v2](https://huggingface.co/SmilingWolf/wd-v1-4-convnextv2-tagger-v2)
-    - Added `--remove_underscore` args to the WD Tagger script.
-    - Changed how the code works, by not only adding general tags (category = `0`) but also character tags (category = `4`)
-    - Character tags can be regulated by specifying `--character_threshold` parameter (default = `0.35`)
-    - Changed `--thresh` to `--general_threshold` (default = `0.35`)
-    - Added `--undesired_words` args to not add specified words when interrogating images, separate each word by comma, e.g. `1girl, scenery`
-    - Changed how `--debug` works, new template :
-    ```
-        {filename} 
-        Character Tags = {character_tags}
-        General Tags = {general_tags}
-    ```
-    - Set `--debug` or `verbose_logging` **On** by default.
-    - Added `--frequency_tags` to print tags frequency
-    - Added `recursive` option to generate tags recursively, by checking sub-directories as well. Useful for multi-concept or multi-directories training.
-- Revamped `4.2.3. Custom Caption/Tag`:
-    - Change the code logic by using method from Python List. 
-    - Using `append()` to add tags to the end of lines.
-    - Using `insert()` to add tags to the beginning of lines.
-    - Using `remove()` to remove tags separated by comma.
-    - `Cheatsheet` from v14.6 is outdated, now user can easily add or remove tags
-        - Tags will be converted to list, so `"_"` or `" "` doesn't matter anymore
-        - However, any tags containing `"_"` will still be replaced with `" "`
-        - To add a tag, set `1girl` to `custom_tags` then run, if you set `append`, it will be added to the end of lines instead.
-        - To add multiple tags, separate each tag by comma `(,)`, e.g. `1girl, garden, school uniform`
-        - Note that because of using `insert()`, the result will be backward instead: `school uniform, garden, 1girl`
-        - To remove tags, set `custom_tags` to your desired words and set `remove_tags`
-    - Added `sub_folder` option, useful for multi-concept or multi-directories training.
-        - If the value is `--all` it will process directory and subdirectories in `train_data_dir` recursively.
-        - If the value is empty, default path is `train_data_dir`
-        - If the value is string and not path, default path is `train_data_dir` + `sub_folder`
-        - If the value is path, default path is `sub_folder`
-- Finetune notebook:
-  - Added `recursive` option to `4.3. Merge Annotation Into JSON` and `Create Buckets & Convert to Latents`
-- Revamped `5.2. Dataset Config`:
-    - Dreambooth notebook:
-        - Deleted `instance_token` and `class_token` and changed into `activation word`
-        - Support multi-concept training
-            - Recursive, it automatically finds subdirectories, if `supported_extensions` exist `(".png", ".jpg", ".jpeg", ".webp", ".bmp")` it will add the path to `[[dataset.subsets]]` in `dataset_config.toml`
-            - You can set parent folder as `train_data_dir` like old version, and you can also normally set `train_data_dir`.
-            - To make sure multi-concept training is implemented, I put back folder naming scheme, but now it's optional.
-            ```
-            <num_repeats>_<class_token>
-            ```
-            - Example: `10_mikapikazo`, `10` will be added as `num_repeats` and `mikapikazo` will be added to `class_token` in `dataset_config.toml`
-            - Because it's optional, if folder naming scheme is not detected, it will get `num_repeats` from `dataset_repeats` and `class_token` from `activation_word`
-        - Added `token_to_captions`
-            - User can add `activation_word` to captions/tags
-            - if folder naming scheme is detected, it will add `<class_token>` from folder name instead of activation word
-            - `keep_tokens` set to `1` if `token_to_captions` is enabled
-    - Fine-tune notebook:
-        - Deleted support for `--dataset_config`, reverted back to old fine-tuning dataset config.
-        - Support multi-directory training
-            - Set `recursive` to 
-                - `4.3. Merge Annotation Into JSON`
-                - `4.4. Create Buckets & Convert to Latents`
-- Added `min_snr_gamma`, disabled by default, Gamma for reducing the weight of high-loss timesteps. Lower numbers have a stronger effect. The paper recommends 5. Read the paper [here](https://arxiv.org/abs/2303.09556).
-- Added `vae_batch_size` to dreambooth notebook
-- Revamped `6.4. Launch Portable Web UI` to match the latest [Cagliostro Colab UI](https://github.com/Linaqruf/sd-notebook-collection/blob/main/cagliostro-colab-ui.ipynb)
-  - Set `anapnoe-webui` as repo by default.
+- Just copy the entire thing from base repository
+- Fix `torch` and `xformers` dependency issue
+- Changing models link
   
 ## Useful Links
 - Official repository : [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts)
